@@ -1,0 +1,8 @@
+# silly macOS
+.DS_Store
+
+# build files
+build/
+ide_profiles/products/
+ide_profiles/VisualStudio/.vs/
+products/
